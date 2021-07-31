@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=B71DF7&size=25&lines=Mechanical+Engineering+student%2C+hacker%2C+hobbyist+and+maker."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&width=1000&color=B71DF7&size=25&lines=Mechanical+Engineering+student%2C+hacker%2C+hobbyist+and+maker."></a>
 </p>
 
 ## 📘 My top open source projects
