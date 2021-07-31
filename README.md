@@ -9,12 +9,11 @@
 
 - 📫 How to reach me **cipulot@gmail.com**
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cipulot&show_icons=true&theme=dracula" alt="cipulot" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cipulot&theme=dracula" alt="cipulot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cipulot&show_icons=true&theme=algolia" alt="cipulot" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cipulot&theme=algolia" alt="cipulot" /></p>
-
+[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
