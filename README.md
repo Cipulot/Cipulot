@@ -25,10 +25,9 @@
 ## 🙋‍♂️ Connect with me
 
   <a href="https://twitter.com/seva_luca"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="" alt="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
+  <a href="" alt="Cipulot Server"><img title="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
   <a href="https://www.twitch.tv/cipulot"><img alt="Twitch" title="Cipulot Twitch" src="https://img.shields.io/twitch/status/cipulot?color=6441a4&style=for-the-badge"></a>
-  <a href=""><img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+  <a href="https://streamlabs.com/cipulot"><img title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </p>
 
 ## 🔥 Streak stats
