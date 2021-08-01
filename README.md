@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&width=1000&color=B71DF7&size=25&lines=Mechanical+Engineering+student%2C+hacker%2C+hobbyist+and+maker."></a>
 </p>
 
-## 📘 My top open source projects
+## 📘 My top open source projects and contribs
 
 <p align="left">
   <a href="https://github.com/Cipulot/LeapMask"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=LeapMask&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LeapMask"></a>
