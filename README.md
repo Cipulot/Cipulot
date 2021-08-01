@@ -110,3 +110,7 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Cipulot&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<p align="center">
+    <img src="https://github.com/Cipulot/Cipulot/blob/main/C64%20Rob%20H.gif?raw=true">
+</p>
