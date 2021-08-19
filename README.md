@@ -23,7 +23,7 @@
 </p>
 
 ## 🙋‍♂️ Connect with me
-  <a href="" alt="Cipulot"><img title="Discord" src="https://discord-readme-badge.vercel.app/api?id=503560772283269132"/></a>
+  <a href="" alt="Cipulot"><img title="Discord" src="https://discord-md-badge.vercel.app/api/shield/503560772283269132"/></a>
   <a href="https://twitter.com/seva_luca"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.twitch.tv/cipulot"><img alt="Twitch" title="Cipulot Twitch" src="https://img.shields.io/twitch/status/cipulot?color=6441a4&style=for-the-badge"></a>
   <a href="https://streamlabs.com/cipulot"><img title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
