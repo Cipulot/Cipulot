@@ -20,7 +20,7 @@
   <a href="https://github.com/Cipulot/PimoPoint"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Cipulot&repo=PimoPoint&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="PimoPoint"></a>
   <a href="https://github.com/Cipulot/SheepyPad"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Cipulot&repo=SheepyPad&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="SheepyPad"></a>
   <a href="https://github.com/Cipulot/helix"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=helix&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="helix"></a>
-  <a href="https://github.com/Cipulot/bakeneko-65"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=bakeneko-65&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="helix"></a>
+  <a href="https://github.com/Cipulot/Chilineko"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=Chilineko&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Chilineko"></a>
   <a href="https://github.com/Cipulot/Oled_macro"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Cipulot&repo=Oled_macro&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Oled_macro"></a>
 
 ### 🧰 Tools and miscellaneous
