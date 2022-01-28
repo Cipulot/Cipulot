@@ -16,6 +16,7 @@
   <a href="https://github.com/Cipulot/EODbot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=EODbot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ML-Chopsticks"></a>
   
 ### ⌨️ Custom Mechanical Keyboards
+  <a href="https://github.com/Cipulot/CorneECRevival"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=CorneECRevival&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CorneECRevival"></a>
   <a href="https://github.com/Cipulot/qmk_firmware"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=qmk_firmware&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="qmk_firmware"></a>
   <a href="https://github.com/Cipulot/helixhschoc"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=helixhschoc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="helixhschoc"></a>
   <a href="https://github.com/Cipulot/Chilineko"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=Chilineko&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Chilineko"></a>
