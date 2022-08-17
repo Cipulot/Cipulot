@@ -11,6 +11,7 @@
   
 ### ⌨️ Custom Mechanical Keyboards
  <a href="https://github.com/Cipulot/RF_R1_8-9Xu"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=RF_R1_8-9Xu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="RF_R1_8-9Xu"></a>
+ <a href="https://github.com/Cipulot/EC60"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=EC60&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="EC60"></a>
  <a href="https://github.com/Cipulot/EC87"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=EC87&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="EC87"></a>
   <a href="https://github.com/Cipulot/CorneECRevival"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=CorneECRevival&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CorneECRevival"></a>
   <a href="https://github.com/Cipulot/is0Topre"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=is0Topre&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="is0Topre"></a>
