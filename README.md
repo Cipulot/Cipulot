@@ -9,6 +9,7 @@
 ## 📘 My top open source projects and contribs
   
 ### ⌨️ Custom Mechanical Keyboards
+ <a href="https://github.com/Cipulot/EC-Pro-2"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=EC-Pro-2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="EC-Pro-2"></a>
  <a href="https://github.com/Cipulot/RF_R1_8-9Xu"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=RF_R1_8-9Xu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="RF_R1_8-9Xu"></a>
  <a href="https://github.com/Cipulot/EC60"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=EC60&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="EC60"></a>
  <a href="https://github.com/Cipulot/EC87"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=EC87&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="EC87"></a>
