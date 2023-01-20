@@ -17,6 +17,7 @@
   <a href="https://github.com/Cipulot/is0Topre"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=is0Topre&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="is0Topre"></a>
   <a href="https://github.com/Cipulot/m0118_integrated_usb"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=m0118_integrated_usb&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="m0118_integrated_usb"></a>
   <a href="https://github.com/Cipulot/qmk_firmware"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=qmk_firmware&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="qmk_firmware"></a>
+  <a href="https://github.com/Cipulot/tinyuf2/tree/cipulot_uf2"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=tinyuf2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="tinyuf2"></a>
   <a href="https://github.com/Cipulot/cipulot_kicad_parts"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Cipulot&repo=cipulot_kicad_parts&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="cipulot_kicad_parts"></a>
   
 ### 🔬 Technology and research
